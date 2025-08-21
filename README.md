@@ -14,7 +14,7 @@ Docs / annonces: tutoriel supervisor, référence API supervisor + forwarding, h
 - **Cloner le dépôt**
 ```bash
 git clone https://github.com/Tomikz/LangGraph.git
-cd Supervisor
+cd LangGraph
 ```
 - **Créer un environnement virtuel**
 ```bash
