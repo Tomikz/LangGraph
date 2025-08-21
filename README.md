@@ -11,7 +11,7 @@ POC multi-agent basé sur l’architecture **Supervisor** de LangGraph v0.3, int
 Docs / annonces: tutoriel supervisor, référence API supervisor + forwarding, handoffs & Send/Command, release 0.3 (prebuilts), agents préconstruits, init modèles & Azure. :contentReference[oaicite:7]{index=7}
 
 ## Configuration
-Voir `.env` et renseigner:
+Créer un fichier `.env` et renseigner:
 - `AZURE_OPENAI_API_KEY`
 - `AZURE_OPENAI_API_BASE` (endpoint Azure)
 - `AZURE_OPENAI_API_DEPLOYMENT_NAME`
